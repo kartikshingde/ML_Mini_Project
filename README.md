@@ -21,8 +21,8 @@ A complete machine learning application that predicts Titanic passenger survival
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/titanic-ml-project.git
-cd titanic-ml-project
+https://github.com/kartikshingde/ML_Mini_Project.git
+
 
 # Create virtual environment
 python3 -m venv venv
